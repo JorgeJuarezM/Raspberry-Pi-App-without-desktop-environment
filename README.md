@@ -37,5 +37,9 @@ galculator (replace with the program of your choice)
 
 done;
 ```
+Other Options
+```bash
+-use_titlebar no -use_cursor no
+```
 That it..
 
